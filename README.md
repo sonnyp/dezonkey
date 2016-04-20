@@ -73,11 +73,11 @@ function myFunction (time, cb) {
 
 # Example
 
-See [example.js](https://github.com/sonnyp/polygoat/blob/master/example.js)
+See [example.js](https://github.com/sonnyp/dezonkey/blob/master/example.js)
 
 # Benchmark
 
-See [benchmark](https://github.com/sonnyp/polygoat/tree/master/benchmark)
+See [benchmark](https://github.com/sonnyp/dezonkey/tree/master/benchmark)
 
 # Test
 
