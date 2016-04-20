@@ -1,0 +1,26 @@
+{
+  "name": "dezonkey",
+  "version": "0.0.0",
+  "description": "Make functions support both promise and callback styles.",
+  "homepage": "https://github.com/sonnyp/dezonkey",
+  "bugs": "https://github.com/sonnyp/dezonkey/issues",
+  "license": "ISC",
+  "author": "Sonny Piers <sonny@fastmail.net>",
+  "keywords": [
+    "throw"
+  ],
+  "scripts": {
+    "benchmark": "node benchmark/benchmark.js",
+    "example": "node example.js",
+    "preversion": "npm test",
+    "lint": "standard",
+    "unit": "node test.js",
+    "test": "npm run unit && npm run lint"
+  },
+  "repository": "github:sonnyp/dezonkey",
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "lodash": "^4.11.1",
+    "platform": "^1.3.1"
+  }
+}
