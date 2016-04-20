@@ -1,6 +1,6 @@
 {
   "name": "dezonkey",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Make JavaScript callback functions call back rather than throwing.",
   "homepage": "https://github.com/sonnyp/dezonkey",
   "bugs": "https://github.com/sonnyp/dezonkey/issues",
